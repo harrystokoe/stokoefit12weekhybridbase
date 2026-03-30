@@ -38,4 +38,4 @@ No installation required.
 
 Coaching built for hybrid athletes — people who want to be strong *and* fast, in the gym *and* on the road.
 
-🌐 [stokofit.com](https://stokoefit.com)
+
